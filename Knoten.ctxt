@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=inhalt
+comment1.target=Knoten(int)
+comment2.params=
+comment2.target=Knoten\ getLeft()
+comment3.params=
+comment3.target=Knoten\ getRight()
+comment4.params=
+comment4.target=int\ getInhalt()
+comment5.params=inhalt
+comment5.target=void\ setInhalt(int)
+comment6.params=left
+comment6.target=void\ setLeft(Knoten)
+comment7.params=right
+comment7.target=void\ setRight(Knoten)
+numComments=8

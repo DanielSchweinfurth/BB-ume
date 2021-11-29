@@ -24,9 +24,9 @@ public class BBaum {
     
     //rechts = kleiner
     // Methode: addKnoten (Knoten, Knoten) - Knoten wird an Baum angehangen (rekursiv)
-    public void addKnotenRC(Knoten knoten){
-        addKnotenRC(knoten, wurzel);
-    }
+     public void addKnotenRC(Knoten knoten){
+         addKnotenRC(knoten, wurzel);
+     }
     
     public void addKnotenRC(Knoten knoten, Knoten wurzel) {
         if (wurzel == null) {
